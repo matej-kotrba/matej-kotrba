@@ -1,10 +1,6 @@
 <h1>Hi, My name is Matěj Kotrba</h1>
-================================================================
 
-Student, web developer.
-----------------------------------------
-
-CSS enthusiast
+Student, web developer, CSS enthusiast
 
 *   🖥️  See my portfolio [here](https://matejkotrba.vercel.app)
 *   🧠  Currently I'm building Effio
